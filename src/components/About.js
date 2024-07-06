@@ -32,7 +32,7 @@ export default function About(props) {
               data-bs-parent="#accordionExample"
             >
               <div className="accordion-body">
-                This is the Best TextUtils App..Textutils gives you a way to analyze your text quickly and efficiently . Be it word count ,character count  and Preview also...Analyzing your text allows for deeper insights and understanding. It's a process of unraveling layers of meaning, uncovering nuances, and discovering connections. Embrace the journey of analysis; it opens doors to knowledge and enhances comprehension...
+                This is the Best TextUtilssssss App..Textutils gives you a way to analyze your text quickly and efficiently . Be it word count ,character count  and Preview also...Analyzing your text allows for deeper insights and understanding. It's a process of unraveling layers of meaning, uncovering nuances, and discovering connections. Embrace the journey of analysis; it opens doors to knowledge and enhances comprehension......
               </div>
             </div>
           </div>
